@@ -1,0 +1,24 @@
+#-------------------------------------------------------------------------------
+                     P_fractal
+#-------------------------------------------------------------------------------
+
+P_fractal is the integration repository of my experiments around multithtread fractal computing
+For more information please refer to https://www.logre.eu/wiki/Fractal_MultiThread
+
+#- Setup project
+#----------------
+. setup.sh
+
+#- Build project
+#----------------
+. build.sh
+
+# Subtrees
+#----------
+git@github.com:quicky2000/fractal                v0.1
+git@github.com:quicky2000/parameter_manager.git  v0.2
+git@github.com:quicky2000/quicky_exception.git   v0.2
+git@github.com:quicky2000/quicky_tools.git       v1.2
+git@github.com:quicky2000/simple_gui.git         v0.3
+
+#EOF
